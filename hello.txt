@@ -5,7 +5,11 @@ hello 4444
 hello 5555
 hello 6666
 hello AAAA
+<<<<<<< HEAD
 hello BBBB
 hello CCCC
 hello DDDD
 hello Master
+=======
+hello AAAA
+>>>>>>> heads/AAAA
